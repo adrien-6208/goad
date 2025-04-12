@@ -1,4 +1,3 @@
-// https://nuxt.com/docs/api/configuration/nuxt-config
 import tailwindcss from "@tailwindcss/vite";
 
 export default defineNuxtConfig({
@@ -14,11 +13,36 @@ export default defineNuxtConfig({
     '@nuxt/scripts',
     '@nuxt/test-utils',
     '@nuxt/ui',
-    '@nuxthub/core'
+    '@nuxthub/core',
+    '@vite-pwa/nuxt',
   ],
   vite: {
     plugins: [
       tailwindcss(),
     ],
   },
+  pwa: {
+    registerType: 'autoUpdate',
+    manifest: {
+      name: 'MyGames',
+      short_name: 'MyGames',
+      description: 'Liste de mes jeux',
+      theme_color: '#ffffff',
+      background_color: '#ffffff',
+      display: 'standalone',
+      start_url: '/',
+      icons: [
+        {
+          src: '/images/icon-app.png',
+          sizes: '192x192',
+          type: 'image/png'
+        },
+        {
+          src: '/images/icon-app.png',
+          sizes: '512x512',
+          type: 'image/png'
+        }
+      ]
+    }
+  }
 })

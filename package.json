@@ -21,6 +21,7 @@
     "@nuxthub/core": "^0.8.21",
     "@tailwindcss/vite": "^4.0.17",
     "@unhead/vue": "^2.0.2",
+    "@vite-pwa/nuxt": "^1.0.0",
     "eslint": "^9.23.0",
     "nuxt": "^3.16.1",
     "tailwindcss": "^4.0.17",

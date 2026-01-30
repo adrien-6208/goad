@@ -22,3 +22,15 @@ logs
 .env
 .env.*
 !.env.example
+
+# Images de la collection (ignore toutes les images mais garde la structure des dossiers)
+public/images/**/*.jpg
+public/images/**/*.jpeg
+public/images/**/*.png
+public/images/**/*.webp
+public/images/**/*.gif
+public/images/**/*.svg
+
+# Garde la structure des dossiers
+!public/images/series/.gitkeep
+!public/images/cards/.gitkeep

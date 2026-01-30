@@ -1,94 +1,88 @@
 <template>
-  <div class="min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-black text-gray-100 p-6">
-    <h1 class="mb-4 text-4xl font-extrabold leading-none tracking-tight text-center md:text-5xl lg:text-6xl text-white mt-5">Ma Bibliothèque</h1>
+  <div class="min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-black text-gray-100">
+    <!-- Header -->
+    <header class="bg-gray-900/50 backdrop-blur-sm border-b border-gray-800 sticky top-0 z-10">
+      <div class="container mx-auto px-6 py-4">
+        <div class="flex items-center justify-between">
+          <h1 class="text-2xl font-bold text-white">
+            🃏 One Piece Card Collection
+          </h1>
+          <NuxtLink
+            to="/search"
+            class="px-4 py-2 bg-blue-600 hover:bg-blue-700 text-white rounded-lg text-sm font-semibold transition-colors"
+          >
+            🔍 Recherche
+          </NuxtLink>
+        </div>
+      </div>
+    </header>
 
-    <div class="flex justify-between items-center mb-8 flex-wrap gap-4 mt-10">
-      <!-- Barre de recherche dynamique -->
-      <div class="flex-1">
-        <input
-          type="text"
-          v-model="search"
-          placeholder="🔎 Rechercher un jeu..."
-          class="w-full px-4 py-2 rounded-lg bg-gray-800 text-white placeholder-gray-400 focus:outline-none focus:ring-2 focus:ring-neon-blue"
-        />
+    <!-- Main content -->
+    <main class="container mx-auto px-6 py-8">
+      <h2 class="text-3xl font-bold text-white mb-8">Séries</h2>
+
+      <!-- Loading -->
+      <div v-if="loading" class="text-center py-12">
+        <p class="text-gray-400">Chargement...</p>
       </div>
 
-      <!-- Boutons d'affichage -->
-      <div class="flex gap-2">
-        <button
-          @click="viewMode = 'grid'"
-          :class="buttonClass(viewMode === 'grid')"
-        >
-          🔳 Cover
-        </button>
-        <button
-          @click="viewMode = 'list'"
-          :class="buttonClass(viewMode === 'list')"
-        >
-          📋 Liste
-        </button>
+      <!-- Empty state -->
+      <div v-else-if="series.length === 0" class="text-center py-12">
+        <p class="text-gray-400">Aucune série pour le moment</p>
       </div>
-    </div>
 
-    <!-- Affichage Mosaïque -->
-    <div
-      v-if="viewMode === 'grid'"
-      class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-6"
-    >
-      <GameCard
-        v-for="game in filteredGames"
-        :key="game.id"
-        :game="game"
-      />
-    </div>
+      <!-- Series grid -->
+      <div v-else class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6 items-start">
+        <div
+          v-for="serie in series"
+          :key="serie.id"
+          class="flex flex-col items-center"
+        >
+          <NuxtLink
+            :to="`/series/${serie.id}`"
+            class="inline-block rounded-lg overflow-hidden hover:ring-2 hover:ring-blue-500 transition-all group"
+          >
+            <img
+              v-if="serie.image"
+              :src="serie.image"
+              :alt="serie.name"
+              class="w-full h-auto max-w-full group-hover:scale-105 transition-transform duration-300"
+              @error="handleImageError"
+            />
+            <div v-else class="bg-gray-700 rounded-lg flex items-center justify-center text-gray-500 text-5xl w-48 h-48">
+              🗂️
+            </div>
+          </NuxtLink>
+        </div>
+      </div>
+    </main>
 
-    <!-- Affichage Liste -->
-    <ul v-else class="space-y-3">
-      <li
-        v-for="game in filteredGames"
-        :key="game.id"
-        class="flex items-center gap-4 px-4 py-3 border border-gray-700 rounded-lg bg-gray-800 hover:bg-gray-700 transition"
-      >
-        <div class="text-lg font-semibold">{{ game.title }}</div>
-      </li>
-    </ul>
+    <!-- Footer -->
+    <footer class="bg-gray-900/50 backdrop-blur-sm border-t border-gray-800 mt-16">
+      <div class="container mx-auto px-6 py-8 text-center text-gray-400">
+        <p>© {{ new Date().getFullYear() }} One Piece Card Collection</p>
+      </div>
+    </footer>
   </div>
 </template>
 
-<script setup>
-import { ref, computed, onMounted } from 'vue'
-import GameCard from '@/components/GameCard.vue'
+<script setup lang="ts">
+const series = ref([])
+const loading = ref(true)
 
-const games = ref([])
-const viewMode = ref('grid')
-const search = ref('')
-
-const buttonClass = (isActive) =>
-  `px-4 py-1 rounded font-semibold transition border ${
-    isActive
-      ? 'bg-neon-blue text-white border-neon-blue shadow shadow-neon'
-      : 'bg-gray-800 text-gray-300 border-gray-600 hover:bg-gray-700'
-  }`
-
-// Fonction de filtrage
-const filteredGames = computed(() => {
-  const terms = search.value.toLowerCase().split(' ').filter(Boolean)
-  if (terms.length === 0) return games.value
-
-  return games.value.filter((game) =>
-    terms.every((term) => game.title.toLowerCase().includes(term))
-  )
-})
+const handleImageError = (e: Event) => {
+  const target = e.target as HTMLImageElement
+  target.style.display = 'none'
+}
 
 onMounted(async () => {
   try {
-    const res = await fetch('/data/games.json')
-    const data = await res.json()
-    games.value = data.sort((a, b) =>
-      a.title.localeCompare(b.title, 'fr', { sensitivity: 'base' })
-    )
-  } catch (err) {
-    console.error('Erreur en chargeant les jeux :', err)
+    const response = await fetch('/data/series.json')
+    series.value = await response.json()
+  } catch (error) {
+    console.error('Erreur lors du chargement des séries:', error)
+  } finally {
+    loading.value = false
   }
 })
 </script>

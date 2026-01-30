@@ -24,9 +24,9 @@ export default defineNuxtConfig({
   pwa: {
     registerType: 'autoUpdate',
     manifest: {
-      name: 'MyGames',
-      short_name: 'MyGames',
-      description: 'Liste de mes jeux',
+      name: 'One Piece Card Collection',
+      short_name: 'OP Cards',
+      description: 'Ma collection de cartes One Piece',
       theme_color: '#ffffff',
       background_color: '#ffffff',
       display: 'standalone',

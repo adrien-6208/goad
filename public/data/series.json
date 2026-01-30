@@ -1,0 +1,27 @@
+[
+  {
+    "id": "op10",
+    "name": "Sang Royale",
+    "image": "/images/series/op10.png"
+  },
+  {
+    "id": "op11",
+    "name": "Des poings vifs comme l'éclair",
+    "image": "/images/series/op11.png"
+  },
+  {
+    "id": "op12",
+    "name": "L'héritage du maitre",
+    "image": "/images/series/op12.png"
+  },
+  {
+    "id": "op13",
+    "name": "Successeurs",
+    "image": "/images/series/op13.png"
+  },
+  {
+    "id": "op14",
+    "name": "Les sept de la mer d'azur",
+    "image": "/images/series/op14.png"
+  }
+]

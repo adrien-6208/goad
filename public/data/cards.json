@@ -1,0 +1,22 @@
+[
+  {
+    "id": "op01-001",
+    "cardNumber": "OP01-001",
+    "name": "Monkey D. Luffy",
+    "seriesId": "op10",
+    "rarityId": "sr",
+    "image": "/images/cards/op01-001.jpg",
+    "status": "acquired",
+    "duplicates": 2
+  },
+  {
+    "id": "op01-002",
+    "cardNumber": "OP01-002",
+    "name": "Roronoa Zoro",
+    "seriesId": "op01",
+    "rarityId": "r",
+    "image": "/images/cards/op01-002.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  }
+]

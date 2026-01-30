@@ -1,21 +1,1337 @@
 [
   {
-    "id": "op01-001",
-    "cardNumber": "OP01-001",
-    "name": "Monkey D. Luffy",
-    "seriesId": "op10",
-    "rarityId": "sr",
-    "image": "/images/cards/op01-001.jpg",
+    "id": "op12-001",
+    "cardNumber": "OP12-001",
+    "name": "Silvers Rayleigh",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-001.png",
     "status": "acquired",
-    "duplicates": 2
+    "duplicates": 0
   },
   {
-    "id": "op01-002",
-    "cardNumber": "OP01-002",
+    "id": "op12-001",
+    "cardNumber": "OP12-001",
+    "name": "Silvers Rayleigh",
+    "seriesId": "op11",
+    "image": "/images/cards/OP12/OP12-001.png",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-001-alt",
+    "cardNumber": "OP12-001",
+    "name": "Silvers Rayleigh (Alternate Art)",
+    "seriesId": "op12",
+    "rarityId": "leader_alt",
+    "image": "/images/cards/OP12/ALTs/OP12-001(alt).png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-002",
+    "cardNumber": "OP12-002",
+    "name": "Edward.Newgate",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-002.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-003",
+    "cardNumber": "OP12-003",
+    "name": "Crocus",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-003.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-004",
+    "cardNumber": "OP12-004",
+    "name": "Kouzuki Oden",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-004.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-005",
+    "cardNumber": "OP12-005",
+    "name": "Shiki",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-005.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-006",
+    "cardNumber": "OP12-006",
+    "name": "Shakuyaku",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-006.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-007",
+    "cardNumber": "OP12-007",
+    "name": "Shanks",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-007.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-008",
+    "cardNumber": "OP12-008",
+    "name": "Shanks",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-008.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-008-alt",
+    "cardNumber": "OP12-008",
+    "name": "Shanks (Alternate Art)",
+    "seriesId": "op12",
+    "rarityId": "leader_alt",
+    "image": "/images/cards/OP12/ALTs/OP12-008(alt).png",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-009",
+    "cardNumber": "OP12-009",
+    "name": "Jinbe",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-009.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-010",
+    "cardNumber": "OP12-010",
+    "name": "Douglas Bullet",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-010.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-011",
+    "cardNumber": "OP12-011",
+    "name": "Duval",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-011.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-012",
+    "cardNumber": "OP12-012",
+    "name": "Buggy",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-012.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-013",
+    "cardNumber": "OP12-013",
+    "name": "Hatchan",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-013.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-014",
+    "cardNumber": "OP12-014",
+    "name": "Boa Hancock",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-014.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-014-alt",
+    "cardNumber": "OP12-014",
+    "name": "Boa Hancock (Alternate Art)",
+    "seriesId": "op12",
+    "rarityId": "sr_alt",
+    "image": "/images/cards/OP12/ALTs/OP12-014(alt).png",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-015",
+    "cardNumber": "OP12-015",
+    "name": "Monkey.D.Luffy",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-015.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-015-alt",
+    "cardNumber": "OP12-015",
+    "name": "Monkey D. Luffy (Alternate Art)",
+    "seriesId": "op12",
+    "rarityId": "sr_alt",
+    "image": "/images/cards/OP12/ALTs/OP12-015(alt).png",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-016",
+    "cardNumber": "OP12-016",
+    "name": "To Never Doubt--That Is Power!",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-016.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-017",
+    "cardNumber": "OP12-017",
+    "name": "Color of Observation Haki",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-017.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-018",
+    "cardNumber": "OP12-018",
+    "name": "Color of the Supreme King Haki",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-018.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-019",
+    "cardNumber": "OP12-019",
+    "name": "Color of Arms Haki",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-019.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-020",
+    "cardNumber": "OP12-020",
     "name": "Roronoa Zoro",
-    "seriesId": "op01",
-    "rarityId": "r",
-    "image": "/images/cards/op01-002.jpg",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-020.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-020-alt",
+    "cardNumber": "OP12-020",
+    "name": "Roronoa Zoro",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/ALTs/OP12-020(alt).png",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-021",
+    "cardNumber": "OP12-021",
+    "name": "Ipponmatsu",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-021.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-022",
+    "cardNumber": "OP12-022",
+    "name": "Inuarashi",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-022.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-023",
+    "cardNumber": "OP12-023",
+    "name": "Kawamatsu",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-023.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-024",
+    "cardNumber": "OP12-024",
+    "name": "Gyukimaru",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-024.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-025",
+    "cardNumber": "OP12-025",
+    "name": "Kin'emon",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-025.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-026",
+    "cardNumber": "OP12-026",
+    "name": "Kuina",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-026.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-027",
+    "cardNumber": "OP12-027",
+    "name": "Koushirou",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-027.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-028",
+    "cardNumber": "OP12-028",
+    "name": "Kouzuki Hiyori",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-028.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-029",
+    "cardNumber": "OP12-029",
+    "name": "Shimotsuki Kouzaburou",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-029.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-030",
+    "cardNumber": "OP12-030",
+    "name": "Dracule Mihawk",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-030.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-030-alt",
+    "cardNumber": "OP12-030",
+    "name": "Dracule Mihawk (Alternate Art)",
+    "seriesId": "op12",
+    "rarityId": "sr_alt",
+    "image": "/images/cards/OP12/ALTs/OP12-030(alt).png",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-031",
+    "cardNumber": "OP12-031",
+    "name": "Tashigi",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-031.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-031-alt",
+    "cardNumber": "OP12-031",
+    "name": "Tashigi",
+    "seriesId": "op12",
+    "rarityId": "sr_alt",
+    "image": "/images/cards/OP12/ALTs/OP12-031(alt).png",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-032",
+    "cardNumber": "OP12-032",
+    "name": "Nekomamushi",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-032.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-033",
+    "cardNumber": "OP12-033",
+    "name": "Helmeppo",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-033.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-034",
+    "cardNumber": "OP12-034",
+    "name": "Perona",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-034.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-034-alt",
+    "cardNumber": "OP12-034",
+    "name": "Perona",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/ALTs/OP12-034(alt).png",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-035",
+    "cardNumber": "OP12-035",
+    "name": "Morgan",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-035.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-036",
+    "cardNumber": "OP12-036",
+    "name": "Roronoa Zoro",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-036.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-037",
+    "cardNumber": "OP12-037",
+    "name": "Demon Aura Nine Sword Style Asura Blades Drawn Dead Man's Game",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-037.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-037-alt",
+    "cardNumber": "OP12-037",
+    "name": "Demon Aura Nine Sword (Alternate Art)",
+    "seriesId": "op12",
+    "rarityId": "sr_alt",
+    "image": "/images/cards/OP12/ALTs/OP12-037(alt).png",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-038",
+    "cardNumber": "OP12-038",
+    "name": "Two-Sword Style Rashomon",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-038.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-039",
+    "cardNumber": "OP12-039",
+    "name": "Luffy Is the Man Who Will Become the King of Pirates!!!",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-039.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-040",
+    "cardNumber": "OP12-040",
+    "name": "Kuzan",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-040.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-040-alt",
+    "cardNumber": "OP12-040",
+    "name": "Kuzan (Alternate Art)",
+    "seriesId": "op12",
+    "rarityId": "sr_alt",
+    "image": "/images/cards/OP12/ALTs/OP12-040(alt).png",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-041",
+    "cardNumber": "OP12-041",
+    "name": "Sanji",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-041.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-041-alt",
+    "cardNumber": "OP12-041",
+    "name": "Sanji",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/ALTs/OP12-041(alt).png",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-042",
+    "cardNumber": "OP12-042",
+    "name": "Alvida",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-042.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-043",
+    "cardNumber": "OP12-043",
+    "name": "Kuzan",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-043.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-043-alt",
+    "cardNumber": "OP12-043",
+    "name": "Kuzan",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/ALTs/OP12-043(alt).png",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-044",
+    "cardNumber": "OP12-044",
+    "name": "Sakazuki",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-044.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-045",
+    "cardNumber": "OP12-045",
+    "name": "Jango",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-045.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-046",
+    "cardNumber": "OP12-046",
+    "name": "Zephyr(Navy)",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-046.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-047",
+    "cardNumber": "OP12-047",
+    "name": "Sengoku",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-047.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-048",
+    "cardNumber": "OP12-048",
+    "name": "Donquixote Rosinante",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-048.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-049",
+    "cardNumber": "OP12-049",
+    "name": "Buggy",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-049.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-050",
+    "cardNumber": "OP12-050",
+    "name": "Jaguar.D.Saul",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-050.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-051",
+    "cardNumber": "OP12-051",
+    "name": "Hina",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-051.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-052",
+    "cardNumber": "OP12-052",
+    "name": "Fullbody",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-052.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-053",
+    "cardNumber": "OP12-053",
+    "name": "Borsalino",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-053.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-054",
+    "cardNumber": "OP12-054",
+    "name": "Marshall.D.Teach",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-054.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-055",
+    "cardNumber": "OP12-055",
+    "name": "Mohji & Cabaji",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-055.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-056",
+    "cardNumber": "OP12-056",
+    "name": "Monkey.D.Garp",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-056.png",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-056-alt",
+    "cardNumber": "OP12-056",
+    "name": "Monkey.D.Garp",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/ALTs/OP12-056(alt).png",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-057",
+    "cardNumber": "OP12-057",
+    "name": "Ice Block Pheasant Peck",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-057.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-058",
+    "cardNumber": "OP12-058",
+    "name": "I Will Make Whitebeard the King of the Pirates",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-058.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-059",
+    "cardNumber": "OP12-059",
+    "name": "Concasser",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-059.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-060",
+    "cardNumber": "OP12-060",
+    "name": "Boeuf Burst",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-060.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-060-alt",
+    "cardNumber": "OP12-060",
+    "name": "Boeuf Burst",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/ALTs/OP12-060(alt).png",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-061",
+    "cardNumber": "OP12-061",
+    "name": "Donquixote Rosinante",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-061.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-061-alt",
+    "cardNumber": "OP12-061",
+    "name": "Donquixote Rosinante",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/ALTs/OP12-061(alt).png",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-062",
+    "cardNumber": "OP12-062",
+    "name": "Vinsmoke Sora",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-062.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-063",
+    "cardNumber": "OP12-063",
+    "name": "Vinsmoke Reiju",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-063.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-063-alt",
+    "cardNumber": "OP12-063",
+    "name": "Vinsmoke Reiju",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/ALTs/OP12-063(alt).png",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-064",
+    "cardNumber": "OP12-064",
+    "name": "Vergo",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-064.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-065",
+    "cardNumber": "OP12-065",
+    "name": "Emporio.Ivankov",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-065.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-066",
+    "cardNumber": "OP12-066",
+    "name": "Carne",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-066.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-067",
+    "cardNumber": "OP12-067",
+    "name": "Carmen",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-067.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-068",
+    "cardNumber": "OP12-068",
+    "name": "Gin",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-068.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-069",
+    "cardNumber": "OP12-069",
+    "name": "Crocodile",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-069.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-070",
+    "cardNumber": "OP12-070",
+    "name": "Sanji",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-070.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-070-alt",
+    "cardNumber": "OP12-070",
+    "name": "Sanji",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/ALTs/OP12-070(alt).png",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-071",
+    "cardNumber": "OP12-071",
+    "name": "Charlotte Pudding",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-071.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-072",
+    "cardNumber": "OP12-072",
+    "name": "Zeff",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-072.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-073",
+    "cardNumber": "OP12-073",
+    "name": "Trafalgar Law",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-073.png",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-073-alt",
+    "cardNumber": "OP12-073",
+    "name": "Trafalgar Law (Alternate Art)",
+    "seriesId": "op12",
+    "rarityId": "sr_alt",
+    "image": "/images/cards/OP12/ALTs/OP12-073(alt).png",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-074",
+    "cardNumber": "OP12-074",
+    "name": "Patty",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-074.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-075",
+    "cardNumber": "OP12-075",
+    "name": "Ms. All Sunday",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-075.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-076",
+    "cardNumber": "OP12-076",
+    "name": "Monet",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-076.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-077",
+    "cardNumber": "OP12-077",
+    "name": "The \"Extinguishes All Sound Created by Your Influence\" Technique",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-077.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-078",
+    "cardNumber": "OP12-078",
+    "name": "Brochette Blow",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-078.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-079",
+    "cardNumber": "OP12-079",
+    "name": "Luffy Is the Man Who Will Be King of the Pirates!!!",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-079.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-080",
+    "cardNumber": "OP12-080",
+    "name": "Baratie",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-080.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-081",
+    "cardNumber": "OP12-081",
+    "name": "Koala",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-081.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-081-alt",
+    "cardNumber": "OP12-081",
+    "name": "Koala (Alternate Art)",
+    "seriesId": "op12",
+    "rarityId": "sr_alt",
+    "image": "/images/cards/OP12/ALTs/OP12-081(alt).png",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-082",
+    "cardNumber": "OP12-082",
+    "name": "Issho",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-082.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-083",
+    "cardNumber": "OP12-083",
+    "name": "Inazuma",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-083.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-084",
+    "cardNumber": "OP12-084",
+    "name": "Emporio.Ivankov",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-084.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-085",
+    "cardNumber": "OP12-085",
+    "name": "Karasu",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-085.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-086",
+    "cardNumber": "OP12-086",
+    "name": "Koala",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-086.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-086-alt",
+    "cardNumber": "OP12-086",
+    "name": "Koala",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/ALTs/OP12-086(alt).png",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-087",
+    "cardNumber": "OP12-087",
+    "name": "Nico Robin",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-087.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-087-alt",
+    "cardNumber": "OP12-087",
+    "name": "Nico Robin (Alternate Art)",
+    "seriesId": "op12",
+    "rarityId": "sr_alt",
+    "image": "/images/cards/OP12/ALTs/OP12-087(alt).png",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-088",
+    "cardNumber": "OP12-088",
+    "name": "Bastille",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-088.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-089",
+    "cardNumber": "OP12-089",
+    "name": "Hack",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-089.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-090",
+    "cardNumber": "OP12-090",
+    "name": "Belo Betty",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-090.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-091",
+    "cardNumber": "OP12-091",
+    "name": "Poker",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-091.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-092",
+    "cardNumber": "OP12-092",
+    "name": "Mizerka",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-092.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-093",
+    "cardNumber": "OP12-093",
+    "name": "Morley",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-093.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-094",
+    "cardNumber": "OP12-094",
+    "name": "Monkey.D.Dragon",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-094.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-094-alt",
+    "cardNumber": "OP12-094",
+    "name": "Monkey D. Dragon (Alternate Art)",
+    "seriesId": "op12",
+    "rarityId": "sec_alt",
+    "image": "/images/cards/OP12/ALTs/OP12-094(alt).png",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-095",
+    "cardNumber": "OP12-095",
+    "name": "Lindbergh",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-095.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-096",
+    "cardNumber": "OP12-096",
+    "name": "Ursa Shock",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-096.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-097",
+    "cardNumber": "OP12-097",
+    "name": "Captains Assembled",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-097.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-098",
+    "cardNumber": "OP12-098",
+    "name": "Hair Removal Fist",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-098.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-099",
+    "cardNumber": "OP12-099",
+    "name": "Kalgara",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-099.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-100",
+    "cardNumber": "OP12-100",
+    "name": "Sabo",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-100.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-101",
+    "cardNumber": "OP12-101",
+    "name": "Jewelry Bonney",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-101.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-102",
+    "cardNumber": "OP12-102",
+    "name": "Shirahoshi",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-102.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-102-alt",
+    "cardNumber": "OP12-102",
+    "name": "Shirahoshi",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/ALTs/OP12-102(alt).png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-103",
+    "cardNumber": "OP12-103",
+    "name": "Seto",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-103.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-104",
+    "cardNumber": "OP12-104",
+    "name": "Sentomaru",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-104.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-105",
+    "cardNumber": "OP12-105",
+    "name": "Trafalgar Lammy",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-105.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-106",
+    "cardNumber": "OP12-106",
+    "name": "Trafalgar Law",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-106.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-107",
+    "cardNumber": "OP12-107",
+    "name": "Donquixote Doflamingo",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-107.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-108",
+    "cardNumber": "OP12-108",
+    "name": "Donquixote Rosinante",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-108.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-108-alt",
+    "cardNumber": "OP12-108",
+    "name": "Donquixote Rosinante",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/ALTs/OP12-108(alt).png",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-109",
+    "cardNumber": "OP12-109",
+    "name": "Pacifista",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-109.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-110",
+    "cardNumber": "OP12-110",
+    "name": "Buffalo",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-110.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-111",
+    "cardNumber": "OP12-111",
+    "name": "Baby 5",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-111.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-112",
+    "cardNumber": "OP12-112",
+    "name": "Baby 5",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-112.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-113",
+    "cardNumber": "OP12-113",
+    "name": "Roronoa Zoro",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-113.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-114",
+    "cardNumber": "OP12-114",
+    "name": "Wyper",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-114.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-115",
+    "cardNumber": "OP12-115",
+    "name": "I Love You!!",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-115.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-116",
+    "cardNumber": "OP12-116",
+    "name": "We'll Ring the Bell Waiting for You!!",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-116.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-117",
+    "cardNumber": "OP12-117",
+    "name": "Slam Gibson",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-117.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-118",
+    "cardNumber": "OP12-118",
+    "name": "Jewelry Bonney",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-118.png",
+    "status": "acquired",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-118",
+    "cardNumber": "OP12-118",
+    "name": "Jewelry Bonney",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/ALTs/OP12-118(alt).png",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-118",
+    "cardNumber": "OP12-118",
+    "name": "Jewelry Bonney",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/ALTs/OP12-118(manga).png",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-119",
+    "cardNumber": "OP12-119",
+    "name": "Bartholomew Kuma",
+    "seriesId": "op12",
+    "image": "/images/cards/OP12/OP12-119.png",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op12-119-alt",
+    "cardNumber": "OP12-119",
+    "name": "Bartholomew Kuma (Alternate Art)",
+    "seriesId": "op12",
+    "rarityId": "sec_alt",
+    "image": "/images/cards/OP12/ALTs/OP12-119(alt).png",
     "status": "wanted",
     "duplicates": 0
   }

@@ -37,7 +37,7 @@
           />
         </div>
 
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
           <!-- Series filter -->
           <div>
             <label for="series" class="block text-sm font-medium text-gray-300 mb-2">
@@ -55,23 +55,6 @@
             </select>
           </div>
 
-          <!-- Rarity filter -->
-          <div>
-            <label for="rarity" class="block text-sm font-medium text-gray-300 mb-2">
-              Rareté
-            </label>
-            <select
-              id="rarity"
-              v-model="filters.rarityId"
-              class="w-full px-4 py-2 bg-gray-900 border border-gray-700 rounded-lg text-white focus:outline-none focus:ring-2 focus:ring-blue-500"
-            >
-              <option value="">Toutes les raretés</option>
-              <option v-for="rarity in rarities" :key="rarity.id" :value="rarity.id">
-                {{ rarity.name }}
-              </option>
-            </select>
-          </div>
-
           <!-- Status filter -->
           <div>
             <label for="status" class="block text-sm font-medium text-gray-300 mb-2">
@@ -82,10 +65,9 @@
               v-model="filters.status"
               class="w-full px-4 py-2 bg-gray-900 border border-gray-700 rounded-lg text-white focus:outline-none focus:ring-2 focus:ring-blue-500"
             >
-              <option value="">Tous les statuts</option>
-              <option value="acquired">✅ Acquises</option>
+              <option value="">Tous</option>
+              <option value="duplicates">📦 Doubles</option>
               <option value="wanted">🔍 Recherchées</option>
-              <option value="both">⭐ Les deux</option>
             </select>
           </div>
         </div>
@@ -117,55 +99,45 @@
       </div>
 
       <!-- Cards grid -->
-      <div v-else class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-4">
+      <div v-else class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 xl:grid-cols-6 gap-6">
         <div
           v-for="card in filteredCards"
           :key="card.id"
-          class="bg-gray-800 rounded-lg overflow-hidden hover:ring-2 hover:ring-blue-500 transition-all relative group"
+          class="flex flex-col"
         >
           <!-- Image -->
-          <div class="aspect-[3/4] bg-gray-700 relative">
-            <img
-              v-if="card.image"
-              :src="card.image"
-              :alt="card.name"
-              class="w-full h-full object-cover"
-            />
-            <div v-else class="w-full h-full flex items-center justify-center text-gray-500 text-3xl">
-              🃏
+          <div class="bg-gray-800 rounded-lg overflow-hidden hover:ring-2 hover:ring-blue-500 transition-all">
+            <div class="aspect-[3/4] bg-gray-700 relative">
+              <img
+                v-if="card.image"
+                :src="card.image"
+                :alt="card.name"
+                class="w-full h-full object-cover"
+                :class="{ 'opacity-40 grayscale': card.status === 'wanted' }"
+              />
+              <div v-else class="w-full h-full flex items-center justify-center text-gray-500 text-3xl">
+                🃏
+              </div>
             </div>
+          </div>
 
-            <!-- Status badge -->
-            <div class="absolute top-2 right-2">
+          <!-- Card info -->
+          <div class="mt-2 space-y-1">
+            <p class="text-xs text-gray-400 font-mono">{{ card.cardNumber }}</p>
+            <p class="text-sm font-semibold text-white line-clamp-2">{{ card.name }}</p>
+            <div class="flex items-center gap-2 text-xs flex-wrap">
               <span
-                class="px-2 py-1 rounded text-xs font-semibold text-white"
-                :class="{
-                  'bg-green-500': card.status === 'acquired',
-                  'bg-orange-500': card.status === 'wanted',
-                  'bg-blue-500': card.status === 'both',
-                }"
+                v-if="card.status === 'wanted'"
+                class="px-2 py-0.5 rounded bg-orange-500/20 text-orange-400 font-semibold"
               >
-                {{ getStatusIcon(card.status) }}
+                🔍 Recherchée
               </span>
-            </div>
-
-            <!-- Duplicates badge -->
-            <div v-if="card.duplicates > 0" class="absolute top-2 left-2">
-              <span class="px-2 py-1 rounded text-xs font-semibold bg-yellow-500 text-white">
-                x{{ card.duplicates }}
+              <span
+                v-if="card.duplicates > 0"
+                class="px-2 py-0.5 rounded bg-yellow-500/20 text-yellow-400 font-semibold"
+              >
+                x{{ card.duplicates }} double{{ card.duplicates > 1 ? 's' : '' }}
               </span>
-            </div>
-
-            <!-- Hover overlay with details -->
-            <div class="absolute inset-0 bg-black bg-opacity-90 opacity-0 group-hover:opacity-100 transition-opacity p-3 flex flex-col justify-center">
-              <p class="text-xs text-gray-400 mb-1">{{ card.cardNumber }}</p>
-              <p class="text-sm font-semibold text-white line-clamp-3 mb-2">{{ card.name }}</p>
-              <p v-if="card.seriesName" class="text-xs text-gray-400 line-clamp-2">
-                📦 {{ card.seriesName }}
-              </p>
-              <p v-if="card.rarityName" class="text-xs text-gray-400">
-                💎 {{ card.rarityName }}
-              </p>
             </div>
           </div>
         </div>
@@ -190,7 +162,6 @@ const loading = ref(true)
 const filters = ref({
   search: '',
   seriesId: '',
-  rarityId: '',
   status: '',
 })
 
@@ -225,33 +196,20 @@ const filteredCards = computed(() => {
     result = result.filter(c => c.seriesId === filters.value.seriesId)
   }
 
-  // Filter by rarity
-  if (filters.value.rarityId) {
-    result = result.filter(c => c.rarityId === filters.value.rarityId)
-  }
-
   // Filter by status
-  if (filters.value.status) {
-    result = result.filter(c => c.status === filters.value.status)
+  if (filters.value.status === 'duplicates') {
+    result = result.filter(c => c.duplicates > 0)
+  } else if (filters.value.status === 'wanted') {
+    result = result.filter(c => c.status === 'wanted')
   }
 
   return result
 })
 
-const getStatusIcon = (status) => {
-  const icons = {
-    acquired: '✅',
-    wanted: '🔍',
-    both: '⭐',
-  }
-  return icons[status]
-}
-
 const resetFilters = () => {
   filters.value = {
     search: '',
     seriesId: '',
-    rarityId: '',
     status: '',
   }
 }

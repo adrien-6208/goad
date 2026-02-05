@@ -175,10 +175,9 @@ onMounted(async () => {
     const allSeries = await seriesResponse.json()
     serie.value = allSeries.find(s => s.id === seriesId)
 
-    // Load cards for this series
-    const cardsResponse = await fetch('/data/cards.json')
-    const allCards = await cardsResponse.json()
-    serieCards.value = allCards.filter(c => c.seriesId === seriesId)
+    // Load cards for this series from dedicated file
+    const cardsResponse = await fetch(`/data/series/${seriesId}.json`)
+    serieCards.value = await cardsResponse.json()
   } catch (error) {
     console.error('Erreur lors du chargement:', error)
   } finally {

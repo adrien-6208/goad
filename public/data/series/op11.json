@@ -1,0 +1,1322 @@
+[
+  {
+    "id": "op11-001",
+    "cardNumber": "OP11-001",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-001.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-001-alt",
+    "cardNumber": "OP11-001",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-001(Alt).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-002",
+    "cardNumber": "OP11-002",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-002.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-003",
+    "cardNumber": "OP11-003",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-003.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-004",
+    "cardNumber": "OP11-004",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-004.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-004-alt",
+    "cardNumber": "OP11-004",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-004(Alt).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-005",
+    "cardNumber": "OP11-005",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-005.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-006",
+    "cardNumber": "OP11-006",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-006.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-007",
+    "cardNumber": "OP11-007",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-007.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-008",
+    "cardNumber": "OP11-008",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-008.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-008-alt",
+    "cardNumber": "OP11-008",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-008(Alt).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-009",
+    "cardNumber": "OP11-009",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-009.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-010",
+    "cardNumber": "OP11-010",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-010.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-010-alt",
+    "cardNumber": "OP11-010",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-010(Alt).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-010-treasurecup",
+    "cardNumber": "OP11-010",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-010(TreasureCup).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-011",
+    "cardNumber": "OP11-011",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-011.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-012",
+    "cardNumber": "OP11-012",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-012.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-012-promopackvol8",
+    "cardNumber": "OP11-012",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-012(PromoPackVol.8).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-013",
+    "cardNumber": "OP11-013",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-013.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-014",
+    "cardNumber": "OP11-014",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-014.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-015",
+    "cardNumber": "OP11-015",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-015.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-016",
+    "cardNumber": "OP11-016",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-016.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-017",
+    "cardNumber": "OP11-017",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-017.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-018",
+    "cardNumber": "OP11-018",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-018.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-018-alt",
+    "cardNumber": "OP11-018",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-018(Alt).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-019",
+    "cardNumber": "OP11-019",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-019.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-020",
+    "cardNumber": "OP11-020",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-020.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-021",
+    "cardNumber": "OP11-021",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-021.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-021-alt",
+    "cardNumber": "OP11-021",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-021(Alt).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-022",
+    "cardNumber": "OP11-022",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-022.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-022-alt",
+    "cardNumber": "OP11-022",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-022(Alt).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-023",
+    "cardNumber": "OP11-023",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-023.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-023-alt",
+    "cardNumber": "OP11-023",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-023(Alt).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-024",
+    "cardNumber": "OP11-024",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-024.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-025",
+    "cardNumber": "OP11-025",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-025.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-026",
+    "cardNumber": "OP11-026",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-026.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-027",
+    "cardNumber": "OP11-027",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-027.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-028",
+    "cardNumber": "OP11-028",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-028.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-029",
+    "cardNumber": "OP11-029",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-029.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-030",
+    "cardNumber": "OP11-030",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-030.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-030-tr",
+    "cardNumber": "OP11-030",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-030(TR).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-031",
+    "cardNumber": "OP11-031",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-031.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-031-alt",
+    "cardNumber": "OP11-031",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-031(Alt).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-032",
+    "cardNumber": "OP11-032",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-032.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-033",
+    "cardNumber": "OP11-033",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-033.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-034",
+    "cardNumber": "OP11-034",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-034.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-035",
+    "cardNumber": "OP11-035",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-035.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-036",
+    "cardNumber": "OP11-036",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-036.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-037",
+    "cardNumber": "OP11-037",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-037.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-038",
+    "cardNumber": "OP11-038",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-038.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-039",
+    "cardNumber": "OP11-039",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-039.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-040",
+    "cardNumber": "OP11-040",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-040.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-040-alt",
+    "cardNumber": "OP11-040",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-040(Alt).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-041",
+    "cardNumber": "OP11-041",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-041.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-041-alt",
+    "cardNumber": "OP11-041",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-041(Alt).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-041-ltd",
+    "cardNumber": "OP11-041",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-041(LTD).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-041-premium",
+    "cardNumber": "OP11-041",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-041(Premium).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-042",
+    "cardNumber": "OP11-042",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-042.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-043",
+    "cardNumber": "OP11-043",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-043.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-044",
+    "cardNumber": "OP11-044",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-044.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-045",
+    "cardNumber": "OP11-045",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-045.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-046",
+    "cardNumber": "OP11-046",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-046.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-047",
+    "cardNumber": "OP11-047",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-047.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-047-alt",
+    "cardNumber": "OP11-047",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-047(Alt).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-048",
+    "cardNumber": "OP11-048",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-048.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-049",
+    "cardNumber": "OP11-049",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-049.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-049-cn",
+    "cardNumber": "OP11-049",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-049(CN).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-049-tr",
+    "cardNumber": "OP11-049",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-049(TR).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-050",
+    "cardNumber": "OP11-050",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-050.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-051",
+    "cardNumber": "OP11-051",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-051.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-051-alt",
+    "cardNumber": "OP11-051",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-051(Alt).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-052",
+    "cardNumber": "OP11-052",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-052.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-053",
+    "cardNumber": "OP11-053",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-053.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-054",
+    "cardNumber": "OP11-054",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-054.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-054-alt",
+    "cardNumber": "OP11-054",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-054(Alt).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-054-cn3rdann",
+    "cardNumber": "OP11-054",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-054(CN3rdAnn).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-055",
+    "cardNumber": "OP11-055",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-055.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-056",
+    "cardNumber": "OP11-056",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-056.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-057",
+    "cardNumber": "OP11-057",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-057.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-058",
+    "cardNumber": "OP11-058",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-058.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-058-promopackvol8",
+    "cardNumber": "OP11-058",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-058(PromoPackVol.8).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-058-tr",
+    "cardNumber": "OP11-058",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-058(TR).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-059",
+    "cardNumber": "OP11-059",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-059.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-060",
+    "cardNumber": "OP11-060",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-060.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-060-premiumvol5",
+    "cardNumber": "OP11-060",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-060(PremiumVol.5).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-061",
+    "cardNumber": "OP11-061",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-061.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-062",
+    "cardNumber": "OP11-062",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-062.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-062-alt",
+    "cardNumber": "OP11-062",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-062(Alt).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-063",
+    "cardNumber": "OP11-063",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-063.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-064",
+    "cardNumber": "OP11-064",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-064.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-065",
+    "cardNumber": "OP11-065",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-065.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-065-promopackvol8",
+    "cardNumber": "OP11-065",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-065(PromoPackVol.8).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-066",
+    "cardNumber": "OP11-066",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-066.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-067",
+    "cardNumber": "OP11-067",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-067.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-067-alt",
+    "cardNumber": "OP11-067",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-067(Alt).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-068",
+    "cardNumber": "OP11-068",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-068.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-069",
+    "cardNumber": "OP11-069",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-069.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-070",
+    "cardNumber": "OP11-070",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-070.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-070-alt",
+    "cardNumber": "OP11-070",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-070(Alt).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-071",
+    "cardNumber": "OP11-071",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-071.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-071-exevol3",
+    "cardNumber": "OP11-071",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-071(EXE.Vol.3).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-072",
+    "cardNumber": "OP11-072",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-072.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-073",
+    "cardNumber": "OP11-073",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-073.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-073-alt",
+    "cardNumber": "OP11-073",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-073(Alt).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-073-premiumvol6",
+    "cardNumber": "OP11-073",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-073(PremiumVol.6).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-074",
+    "cardNumber": "OP11-074",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-074.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-075",
+    "cardNumber": "OP11-075",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-075.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-076",
+    "cardNumber": "OP11-076",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-076.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-077",
+    "cardNumber": "OP11-077",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-077.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-078",
+    "cardNumber": "OP11-078",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-078.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-079",
+    "cardNumber": "OP11-079",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-079.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-080",
+    "cardNumber": "OP11-080",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-080.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-080-alt",
+    "cardNumber": "OP11-080",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-080(Alt).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-081",
+    "cardNumber": "OP11-081",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-081.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-082",
+    "cardNumber": "OP11-082",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-082.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-083",
+    "cardNumber": "OP11-083",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-083.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-084",
+    "cardNumber": "OP11-084",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-084.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-084-alt",
+    "cardNumber": "OP11-084",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-084(Alt).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-084-cn",
+    "cardNumber": "OP11-084",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-084(CN).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-085",
+    "cardNumber": "OP11-085",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-085.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-086",
+    "cardNumber": "OP11-086",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-086.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-087",
+    "cardNumber": "OP11-087",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-087.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-088",
+    "cardNumber": "OP11-088",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-088.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-089",
+    "cardNumber": "OP11-089",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-089.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-090",
+    "cardNumber": "OP11-090",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-090.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-091",
+    "cardNumber": "OP11-091",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-091.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-092",
+    "cardNumber": "OP11-092",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-092.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-092-alt",
+    "cardNumber": "OP11-092",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-092(Alt).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-093",
+    "cardNumber": "OP11-093",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-093.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-094",
+    "cardNumber": "OP11-094",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-094.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-095",
+    "cardNumber": "OP11-095",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-095.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-095-alt",
+    "cardNumber": "OP11-095",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-095(Alt).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-096",
+    "cardNumber": "OP11-096",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-096.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-096-promopackvol8",
+    "cardNumber": "OP11-096",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-096(PromoPackVol.8).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-097",
+    "cardNumber": "OP11-097",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-097.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-098",
+    "cardNumber": "OP11-098",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-098.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-099",
+    "cardNumber": "OP11-099",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-099.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-100",
+    "cardNumber": "OP11-100",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-100.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-101",
+    "cardNumber": "OP11-101",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-101.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-101-alt",
+    "cardNumber": "OP11-101",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-101(Alt).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-102",
+    "cardNumber": "OP11-102",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-102.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-103",
+    "cardNumber": "OP11-103",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-103.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-104",
+    "cardNumber": "OP11-104",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-104.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-105",
+    "cardNumber": "OP11-105",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-105.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-106",
+    "cardNumber": "OP11-106",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-106.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-106-alt1",
+    "cardNumber": "OP11-106",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-106(Alt1).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-106-alt2",
+    "cardNumber": "OP11-106",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-106(Alt2).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-107",
+    "cardNumber": "OP11-107",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-107.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-108",
+    "cardNumber": "OP11-108",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-108.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-109",
+    "cardNumber": "OP11-109",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-109.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-110",
+    "cardNumber": "OP11-110",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-110.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-111",
+    "cardNumber": "OP11-111",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-111.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-112",
+    "cardNumber": "OP11-112",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-112.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-113",
+    "cardNumber": "OP11-113",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-113.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-114",
+    "cardNumber": "OP11-114",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-114.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-114-alt",
+    "cardNumber": "OP11-114",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-114(Alt).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-115",
+    "cardNumber": "OP11-115",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-115.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-116",
+    "cardNumber": "OP11-116",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-116.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-117",
+    "cardNumber": "OP11-117",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-117.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-118",
+    "cardNumber": "OP11-118",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-118.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-118-alt",
+    "cardNumber": "OP11-118",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-118(Alt).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-118-manga",
+    "cardNumber": "OP11-118",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-118(Manga).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-119",
+    "cardNumber": "OP11-119",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/OP11-119.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-119-alt",
+    "cardNumber": "OP11-119",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-119(Alt).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op11-119-treasurecup",
+    "cardNumber": "OP11-119",
+    "seriesId": "op11",
+    "image": "/images/cards/OP11/ALTs/OP11-119(TreasureCup).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  }
+]

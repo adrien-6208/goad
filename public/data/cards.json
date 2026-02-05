@@ -2,7 +2,6 @@
   {
     "id": "op12-001",
     "cardNumber": "OP12-001",
-    "name": "Silvers Rayleigh",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-001.jpg",
     "status": "acquired",
@@ -11,17 +10,14 @@
   {
     "id": "op12-001-alt",
     "cardNumber": "OP12-001",
-    "name": "Silvers Rayleigh (Alternate Art)",
     "seriesId": "op12",
-    "rarityId": "leader_alt",
     "image": "/images/cards/OP12/ALTs/OP12-001(alt).jpg",
-    "status": "acquired",
+    "status": "wanted",
     "duplicates": 0
   },
   {
     "id": "op12-002",
     "cardNumber": "OP12-002",
-    "name": "Edward.Newgate",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-002.jpg",
     "status": "acquired",
@@ -30,7 +26,6 @@
   {
     "id": "op12-003",
     "cardNumber": "OP12-003",
-    "name": "Crocus",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-003.jpg",
     "status": "acquired",
@@ -39,7 +34,6 @@
   {
     "id": "op12-004",
     "cardNumber": "OP12-004",
-    "name": "Kouzuki Oden",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-004.jpg",
     "status": "acquired",
@@ -48,7 +42,6 @@
   {
     "id": "op12-005",
     "cardNumber": "OP12-005",
-    "name": "Shiki",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-005.jpg",
     "status": "acquired",
@@ -57,7 +50,6 @@
   {
     "id": "op12-006",
     "cardNumber": "OP12-006",
-    "name": "Shakuyaku",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-006.jpg",
     "status": "acquired",
@@ -66,7 +58,6 @@
   {
     "id": "op12-007",
     "cardNumber": "OP12-007",
-    "name": "Shanks",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-007.jpg",
     "status": "acquired",
@@ -75,7 +66,6 @@
   {
     "id": "op12-008",
     "cardNumber": "OP12-008",
-    "name": "Shanks",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-008.jpg",
     "status": "acquired",
@@ -84,9 +74,7 @@
   {
     "id": "op12-008-alt",
     "cardNumber": "OP12-008",
-    "name": "Shanks (Alternate Art)",
     "seriesId": "op12",
-    "rarityId": "leader_alt",
     "image": "/images/cards/OP12/ALTs/OP12-008(alt).jpg",
     "status": "wanted",
     "duplicates": 0
@@ -94,7 +82,6 @@
   {
     "id": "op12-009",
     "cardNumber": "OP12-009",
-    "name": "Jinbe",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-009.jpg",
     "status": "acquired",
@@ -103,7 +90,6 @@
   {
     "id": "op12-010",
     "cardNumber": "OP12-010",
-    "name": "Douglas Bullet",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-010.jpg",
     "status": "acquired",
@@ -112,7 +98,6 @@
   {
     "id": "op12-011",
     "cardNumber": "OP12-011",
-    "name": "Duval",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-011.jpg",
     "status": "acquired",
@@ -121,7 +106,6 @@
   {
     "id": "op12-012",
     "cardNumber": "OP12-012",
-    "name": "Buggy",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-012.jpg",
     "status": "acquired",
@@ -130,7 +114,6 @@
   {
     "id": "op12-013",
     "cardNumber": "OP12-013",
-    "name": "Hatchan",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-013.jpg",
     "status": "acquired",
@@ -139,7 +122,6 @@
   {
     "id": "op12-014",
     "cardNumber": "OP12-014",
-    "name": "Boa Hancock",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-014.jpg",
     "status": "acquired",
@@ -148,9 +130,7 @@
   {
     "id": "op12-014-alt",
     "cardNumber": "OP12-014",
-    "name": "Boa Hancock (Alternate Art)",
     "seriesId": "op12",
-    "rarityId": "sr_alt",
     "image": "/images/cards/OP12/ALTs/OP12-014(alt).jpg",
     "status": "wanted",
     "duplicates": 0
@@ -158,7 +138,6 @@
   {
     "id": "op12-015",
     "cardNumber": "OP12-015",
-    "name": "Monkey.D.Luffy",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-015.jpg",
     "status": "acquired",
@@ -167,9 +146,7 @@
   {
     "id": "op12-015-alt",
     "cardNumber": "OP12-015",
-    "name": "Monkey D. Luffy (Alternate Art)",
     "seriesId": "op12",
-    "rarityId": "sr_alt",
     "image": "/images/cards/OP12/ALTs/OP12-015(alt).jpg",
     "status": "wanted",
     "duplicates": 0
@@ -177,7 +154,6 @@
   {
     "id": "op12-016",
     "cardNumber": "OP12-016",
-    "name": "To Never Doubt--That Is Power!",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-016.jpg",
     "status": "acquired",
@@ -186,7 +162,6 @@
   {
     "id": "op12-017",
     "cardNumber": "OP12-017",
-    "name": "Color of Observation Haki",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-017.jpg",
     "status": "acquired",
@@ -195,7 +170,6 @@
   {
     "id": "op12-018",
     "cardNumber": "OP12-018",
-    "name": "Color of the Supreme King Haki",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-018.jpg",
     "status": "acquired",
@@ -204,7 +178,6 @@
   {
     "id": "op12-019",
     "cardNumber": "OP12-019",
-    "name": "Color of Arms Haki",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-019.jpg",
     "status": "acquired",
@@ -213,7 +186,6 @@
   {
     "id": "op12-020",
     "cardNumber": "OP12-020",
-    "name": "Roronoa Zoro",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-020.jpg",
     "status": "acquired",
@@ -222,7 +194,6 @@
   {
     "id": "op12-020-alt",
     "cardNumber": "OP12-020",
-    "name": "Roronoa Zoro",
     "seriesId": "op12",
     "image": "/images/cards/OP12/ALTs/OP12-020(alt).jpg",
     "status": "wanted",
@@ -231,7 +202,6 @@
   {
     "id": "op12-021",
     "cardNumber": "OP12-021",
-    "name": "Ipponmatsu",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-021.jpg",
     "status": "acquired",
@@ -240,7 +210,6 @@
   {
     "id": "op12-022",
     "cardNumber": "OP12-022",
-    "name": "Inuarashi",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-022.jpg",
     "status": "acquired",
@@ -249,7 +218,6 @@
   {
     "id": "op12-023",
     "cardNumber": "OP12-023",
-    "name": "Kawamatsu",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-023.jpg",
     "status": "acquired",
@@ -258,7 +226,6 @@
   {
     "id": "op12-024",
     "cardNumber": "OP12-024",
-    "name": "Gyukimaru",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-024.jpg",
     "status": "acquired",
@@ -267,7 +234,6 @@
   {
     "id": "op12-025",
     "cardNumber": "OP12-025",
-    "name": "Kin'emon",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-025.jpg",
     "status": "acquired",
@@ -276,7 +242,6 @@
   {
     "id": "op12-026",
     "cardNumber": "OP12-026",
-    "name": "Kuina",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-026.jpg",
     "status": "acquired",
@@ -285,7 +250,6 @@
   {
     "id": "op12-027",
     "cardNumber": "OP12-027",
-    "name": "Koushirou",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-027.jpg",
     "status": "acquired",
@@ -294,7 +258,6 @@
   {
     "id": "op12-028",
     "cardNumber": "OP12-028",
-    "name": "Kouzuki Hiyori",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-028.jpg",
     "status": "acquired",
@@ -303,7 +266,6 @@
   {
     "id": "op12-029",
     "cardNumber": "OP12-029",
-    "name": "Shimotsuki Kouzaburou",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-029.jpg",
     "status": "acquired",
@@ -312,7 +274,6 @@
   {
     "id": "op12-030",
     "cardNumber": "OP12-030",
-    "name": "Dracule Mihawk",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-030.jpg",
     "status": "acquired",
@@ -321,9 +282,7 @@
   {
     "id": "op12-030-alt",
     "cardNumber": "OP12-030",
-    "name": "Dracule Mihawk (Alternate Art)",
     "seriesId": "op12",
-    "rarityId": "sr_alt",
     "image": "/images/cards/OP12/ALTs/OP12-030(alt).jpg",
     "status": "wanted",
     "duplicates": 0
@@ -331,7 +290,6 @@
   {
     "id": "op12-031",
     "cardNumber": "OP12-031",
-    "name": "Tashigi",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-031.jpg",
     "status": "acquired",
@@ -340,9 +298,7 @@
   {
     "id": "op12-031-alt",
     "cardNumber": "OP12-031",
-    "name": "Tashigi",
     "seriesId": "op12",
-    "rarityId": "sr_alt",
     "image": "/images/cards/OP12/ALTs/OP12-031(alt).jpg",
     "status": "wanted",
     "duplicates": 0
@@ -350,7 +306,6 @@
   {
     "id": "op12-032",
     "cardNumber": "OP12-032",
-    "name": "Nekomamushi",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-032.jpg",
     "status": "acquired",
@@ -359,7 +314,6 @@
   {
     "id": "op12-033",
     "cardNumber": "OP12-033",
-    "name": "Helmeppo",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-033.jpg",
     "status": "acquired",
@@ -368,7 +322,6 @@
   {
     "id": "op12-034",
     "cardNumber": "OP12-034",
-    "name": "Perona",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-034.jpg",
     "status": "acquired",
@@ -377,7 +330,6 @@
   {
     "id": "op12-034-alt",
     "cardNumber": "OP12-034",
-    "name": "Perona",
     "seriesId": "op12",
     "image": "/images/cards/OP12/ALTs/OP12-034(alt).jpg",
     "status": "wanted",
@@ -386,7 +338,6 @@
   {
     "id": "op12-035",
     "cardNumber": "OP12-035",
-    "name": "Morgan",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-035.jpg",
     "status": "acquired",
@@ -395,7 +346,6 @@
   {
     "id": "op12-036",
     "cardNumber": "OP12-036",
-    "name": "Roronoa Zoro",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-036.jpg",
     "status": "acquired",
@@ -404,7 +354,6 @@
   {
     "id": "op12-037",
     "cardNumber": "OP12-037",
-    "name": "Demon Aura Nine Sword Style Asura Blades Drawn Dead Man's Game",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-037.jpg",
     "status": "acquired",
@@ -413,9 +362,7 @@
   {
     "id": "op12-037-alt",
     "cardNumber": "OP12-037",
-    "name": "Demon Aura Nine Sword (Alternate Art)",
     "seriesId": "op12",
-    "rarityId": "sr_alt",
     "image": "/images/cards/OP12/ALTs/OP12-037(alt).jpg",
     "status": "wanted",
     "duplicates": 0
@@ -423,7 +370,6 @@
   {
     "id": "op12-038",
     "cardNumber": "OP12-038",
-    "name": "Two-Sword Style Rashomon",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-038.jpg",
     "status": "acquired",
@@ -432,7 +378,6 @@
   {
     "id": "op12-039",
     "cardNumber": "OP12-039",
-    "name": "Luffy Is the Man Who Will Become the King of Pirates!!!",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-039.jpg",
     "status": "acquired",
@@ -441,7 +386,6 @@
   {
     "id": "op12-040",
     "cardNumber": "OP12-040",
-    "name": "Kuzan",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-040.jpg",
     "status": "acquired",
@@ -450,9 +394,7 @@
   {
     "id": "op12-040-alt",
     "cardNumber": "OP12-040",
-    "name": "Kuzan (Alternate Art)",
     "seriesId": "op12",
-    "rarityId": "sr_alt",
     "image": "/images/cards/OP12/ALTs/OP12-040(alt).jpg",
     "status": "wanted",
     "duplicates": 0
@@ -460,7 +402,6 @@
   {
     "id": "op12-041",
     "cardNumber": "OP12-041",
-    "name": "Sanji",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-041.jpg",
     "status": "acquired",
@@ -469,7 +410,6 @@
   {
     "id": "op12-041-alt",
     "cardNumber": "OP12-041",
-    "name": "Sanji",
     "seriesId": "op12",
     "image": "/images/cards/OP12/ALTs/OP12-041(alt).jpg",
     "status": "wanted",
@@ -478,7 +418,6 @@
   {
     "id": "op12-042",
     "cardNumber": "OP12-042",
-    "name": "Alvida",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-042.jpg",
     "status": "acquired",
@@ -487,7 +426,6 @@
   {
     "id": "op12-043",
     "cardNumber": "OP12-043",
-    "name": "Kuzan",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-043.jpg",
     "status": "acquired",
@@ -496,7 +434,6 @@
   {
     "id": "op12-043-alt",
     "cardNumber": "OP12-043",
-    "name": "Kuzan",
     "seriesId": "op12",
     "image": "/images/cards/OP12/ALTs/OP12-043(alt).jpg",
     "status": "wanted",
@@ -505,7 +442,6 @@
   {
     "id": "op12-044",
     "cardNumber": "OP12-044",
-    "name": "Sakazuki",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-044.jpg",
     "status": "acquired",
@@ -514,7 +450,6 @@
   {
     "id": "op12-045",
     "cardNumber": "OP12-045",
-    "name": "Jango",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-045.jpg",
     "status": "acquired",
@@ -523,7 +458,6 @@
   {
     "id": "op12-046",
     "cardNumber": "OP12-046",
-    "name": "Zephyr(Navy)",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-046.jpg",
     "status": "acquired",
@@ -532,7 +466,6 @@
   {
     "id": "op12-047",
     "cardNumber": "OP12-047",
-    "name": "Sengoku",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-047.jpg",
     "status": "acquired",
@@ -541,7 +474,6 @@
   {
     "id": "op12-048",
     "cardNumber": "OP12-048",
-    "name": "Donquixote Rosinante",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-048.jpg",
     "status": "acquired",
@@ -550,7 +482,6 @@
   {
     "id": "op12-049",
     "cardNumber": "OP12-049",
-    "name": "Buggy",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-049.jpg",
     "status": "acquired",
@@ -559,7 +490,6 @@
   {
     "id": "op12-050",
     "cardNumber": "OP12-050",
-    "name": "Jaguar.D.Saul",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-050.jpg",
     "status": "acquired",
@@ -568,7 +498,6 @@
   {
     "id": "op12-051",
     "cardNumber": "OP12-051",
-    "name": "Hina",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-051.jpg",
     "status": "acquired",
@@ -577,7 +506,6 @@
   {
     "id": "op12-052",
     "cardNumber": "OP12-052",
-    "name": "Fullbody",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-052.jpg",
     "status": "acquired",
@@ -586,7 +514,6 @@
   {
     "id": "op12-053",
     "cardNumber": "OP12-053",
-    "name": "Borsalino",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-053.jpg",
     "status": "acquired",
@@ -595,7 +522,6 @@
   {
     "id": "op12-054",
     "cardNumber": "OP12-054",
-    "name": "Marshall.D.Teach",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-054.jpg",
     "status": "acquired",
@@ -604,7 +530,6 @@
   {
     "id": "op12-055",
     "cardNumber": "OP12-055",
-    "name": "Mohji & Cabaji",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-055.jpg",
     "status": "acquired",
@@ -613,7 +538,6 @@
   {
     "id": "op12-056",
     "cardNumber": "OP12-056",
-    "name": "Monkey.D.Garp",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-056.jpg",
     "status": "wanted",
@@ -622,7 +546,6 @@
   {
     "id": "op12-056-alt",
     "cardNumber": "OP12-056",
-    "name": "Monkey.D.Garp",
     "seriesId": "op12",
     "image": "/images/cards/OP12/ALTs/OP12-056(alt).jpg",
     "status": "wanted",
@@ -631,7 +554,6 @@
   {
     "id": "op12-057",
     "cardNumber": "OP12-057",
-    "name": "Ice Block Pheasant Peck",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-057.jpg",
     "status": "acquired",
@@ -640,7 +562,6 @@
   {
     "id": "op12-058",
     "cardNumber": "OP12-058",
-    "name": "I Will Make Whitebeard the King of the Pirates",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-058.jpg",
     "status": "acquired",
@@ -649,7 +570,6 @@
   {
     "id": "op12-059",
     "cardNumber": "OP12-059",
-    "name": "Concasser",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-059.jpg",
     "status": "acquired",
@@ -658,7 +578,6 @@
   {
     "id": "op12-060",
     "cardNumber": "OP12-060",
-    "name": "Boeuf Burst",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-060.jpg",
     "status": "acquired",
@@ -667,7 +586,6 @@
   {
     "id": "op12-060-alt",
     "cardNumber": "OP12-060",
-    "name": "Boeuf Burst",
     "seriesId": "op12",
     "image": "/images/cards/OP12/ALTs/OP12-060(alt).jpg",
     "status": "wanted",
@@ -676,7 +594,6 @@
   {
     "id": "op12-061",
     "cardNumber": "OP12-061",
-    "name": "Donquixote Rosinante",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-061.jpg",
     "status": "acquired",
@@ -685,7 +602,6 @@
   {
     "id": "op12-061-alt",
     "cardNumber": "OP12-061",
-    "name": "Donquixote Rosinante",
     "seriesId": "op12",
     "image": "/images/cards/OP12/ALTs/OP12-061(alt).jpg",
     "status": "wanted",
@@ -694,7 +610,6 @@
   {
     "id": "op12-062",
     "cardNumber": "OP12-062",
-    "name": "Vinsmoke Sora",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-062.jpg",
     "status": "acquired",
@@ -703,7 +618,6 @@
   {
     "id": "op12-063",
     "cardNumber": "OP12-063",
-    "name": "Vinsmoke Reiju",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-063.jpg",
     "status": "acquired",
@@ -712,7 +626,6 @@
   {
     "id": "op12-063-alt",
     "cardNumber": "OP12-063",
-    "name": "Vinsmoke Reiju",
     "seriesId": "op12",
     "image": "/images/cards/OP12/ALTs/OP12-063(alt).jpg",
     "status": "wanted",
@@ -721,7 +634,6 @@
   {
     "id": "op12-064",
     "cardNumber": "OP12-064",
-    "name": "Vergo",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-064.jpg",
     "status": "acquired",
@@ -730,7 +642,6 @@
   {
     "id": "op12-065",
     "cardNumber": "OP12-065",
-    "name": "Emporio.Ivankov",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-065.jpg",
     "status": "acquired",
@@ -739,7 +650,6 @@
   {
     "id": "op12-066",
     "cardNumber": "OP12-066",
-    "name": "Carne",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-066.jpg",
     "status": "acquired",
@@ -748,7 +658,6 @@
   {
     "id": "op12-067",
     "cardNumber": "OP12-067",
-    "name": "Carmen",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-067.jpg",
     "status": "acquired",
@@ -757,7 +666,6 @@
   {
     "id": "op12-068",
     "cardNumber": "OP12-068",
-    "name": "Gin",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-068.jpg",
     "status": "acquired",
@@ -766,7 +674,6 @@
   {
     "id": "op12-069",
     "cardNumber": "OP12-069",
-    "name": "Crocodile",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-069.jpg",
     "status": "acquired",
@@ -775,7 +682,6 @@
   {
     "id": "op12-070",
     "cardNumber": "OP12-070",
-    "name": "Sanji",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-070.jpg",
     "status": "acquired",
@@ -784,7 +690,6 @@
   {
     "id": "op12-070-alt",
     "cardNumber": "OP12-070",
-    "name": "Sanji",
     "seriesId": "op12",
     "image": "/images/cards/OP12/ALTs/OP12-070(alt).jpg",
     "status": "wanted",
@@ -793,7 +698,6 @@
   {
     "id": "op12-071",
     "cardNumber": "OP12-071",
-    "name": "Charlotte Pudding",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-071.jpg",
     "status": "acquired",
@@ -802,7 +706,6 @@
   {
     "id": "op12-072",
     "cardNumber": "OP12-072",
-    "name": "Zeff",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-072.jpg",
     "status": "acquired",
@@ -811,7 +714,6 @@
   {
     "id": "op12-073",
     "cardNumber": "OP12-073",
-    "name": "Trafalgar Law",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-073.jpg",
     "status": "wanted",
@@ -820,9 +722,7 @@
   {
     "id": "op12-073-alt",
     "cardNumber": "OP12-073",
-    "name": "Trafalgar Law (Alternate Art)",
     "seriesId": "op12",
-    "rarityId": "sr_alt",
     "image": "/images/cards/OP12/ALTs/OP12-073(alt).jpg",
     "status": "wanted",
     "duplicates": 0
@@ -830,7 +730,6 @@
   {
     "id": "op12-074",
     "cardNumber": "OP12-074",
-    "name": "Patty",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-074.jpg",
     "status": "acquired",
@@ -839,7 +738,6 @@
   {
     "id": "op12-075",
     "cardNumber": "OP12-075",
-    "name": "Ms. All Sunday",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-075.jpg",
     "status": "acquired",
@@ -848,7 +746,6 @@
   {
     "id": "op12-076",
     "cardNumber": "OP12-076",
-    "name": "Monet",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-076.jpg",
     "status": "acquired",
@@ -857,7 +754,6 @@
   {
     "id": "op12-077",
     "cardNumber": "OP12-077",
-    "name": "The \"Extinguishes All Sound Created by Your Influence\" Technique",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-077.jpg",
     "status": "acquired",
@@ -866,7 +762,6 @@
   {
     "id": "op12-078",
     "cardNumber": "OP12-078",
-    "name": "Brochette Blow",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-078.jpg",
     "status": "acquired",
@@ -875,7 +770,6 @@
   {
     "id": "op12-079",
     "cardNumber": "OP12-079",
-    "name": "Luffy Is the Man Who Will Be King of the Pirates!!!",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-079.jpg",
     "status": "acquired",
@@ -884,7 +778,6 @@
   {
     "id": "op12-080",
     "cardNumber": "OP12-080",
-    "name": "Baratie",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-080.jpg",
     "status": "acquired",
@@ -893,7 +786,6 @@
   {
     "id": "op12-081",
     "cardNumber": "OP12-081",
-    "name": "Koala",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-081.jpg",
     "status": "acquired",
@@ -902,9 +794,7 @@
   {
     "id": "op12-081-alt",
     "cardNumber": "OP12-081",
-    "name": "Koala (Alternate Art)",
     "seriesId": "op12",
-    "rarityId": "sr_alt",
     "image": "/images/cards/OP12/ALTs/OP12-081(alt).jpg",
     "status": "wanted",
     "duplicates": 0
@@ -912,7 +802,6 @@
   {
     "id": "op12-082",
     "cardNumber": "OP12-082",
-    "name": "Issho",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-082.jpg",
     "status": "acquired",
@@ -921,7 +810,6 @@
   {
     "id": "op12-083",
     "cardNumber": "OP12-083",
-    "name": "Inazuma",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-083.jpg",
     "status": "acquired",
@@ -930,7 +818,6 @@
   {
     "id": "op12-084",
     "cardNumber": "OP12-084",
-    "name": "Emporio.Ivankov",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-084.jpg",
     "status": "acquired",
@@ -939,7 +826,6 @@
   {
     "id": "op12-085",
     "cardNumber": "OP12-085",
-    "name": "Karasu",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-085.jpg",
     "status": "acquired",
@@ -948,7 +834,6 @@
   {
     "id": "op12-086",
     "cardNumber": "OP12-086",
-    "name": "Koala",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-086.jpg",
     "status": "acquired",
@@ -957,7 +842,6 @@
   {
     "id": "op12-086-alt",
     "cardNumber": "OP12-086",
-    "name": "Koala",
     "seriesId": "op12",
     "image": "/images/cards/OP12/ALTs/OP12-086(alt).jpg",
     "status": "wanted",
@@ -966,7 +850,6 @@
   {
     "id": "op12-087",
     "cardNumber": "OP12-087",
-    "name": "Nico Robin",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-087.jpg",
     "status": "acquired",
@@ -975,9 +858,7 @@
   {
     "id": "op12-087-alt",
     "cardNumber": "OP12-087",
-    "name": "Nico Robin (Alternate Art)",
     "seriesId": "op12",
-    "rarityId": "sr_alt",
     "image": "/images/cards/OP12/ALTs/OP12-087(alt).jpg",
     "status": "wanted",
     "duplicates": 0
@@ -985,7 +866,6 @@
   {
     "id": "op12-088",
     "cardNumber": "OP12-088",
-    "name": "Bastille",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-088.jpg",
     "status": "acquired",
@@ -994,7 +874,6 @@
   {
     "id": "op12-089",
     "cardNumber": "OP12-089",
-    "name": "Hack",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-089.jpg",
     "status": "acquired",
@@ -1003,7 +882,6 @@
   {
     "id": "op12-090",
     "cardNumber": "OP12-090",
-    "name": "Belo Betty",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-090.jpg",
     "status": "acquired",
@@ -1012,7 +890,6 @@
   {
     "id": "op12-091",
     "cardNumber": "OP12-091",
-    "name": "Poker",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-091.jpg",
     "status": "acquired",
@@ -1021,7 +898,6 @@
   {
     "id": "op12-092",
     "cardNumber": "OP12-092",
-    "name": "Mizerka",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-092.jpg",
     "status": "acquired",
@@ -1030,7 +906,6 @@
   {
     "id": "op12-093",
     "cardNumber": "OP12-093",
-    "name": "Morley",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-093.jpg",
     "status": "acquired",
@@ -1039,7 +914,6 @@
   {
     "id": "op12-094",
     "cardNumber": "OP12-094",
-    "name": "Monkey.D.Dragon",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-094.jpg",
     "status": "acquired",
@@ -1048,9 +922,7 @@
   {
     "id": "op12-094-alt",
     "cardNumber": "OP12-094",
-    "name": "Monkey D. Dragon (Alternate Art)",
     "seriesId": "op12",
-    "rarityId": "sec_alt",
     "image": "/images/cards/OP12/ALTs/OP12-094(alt).jpg",
     "status": "wanted",
     "duplicates": 0
@@ -1058,7 +930,6 @@
   {
     "id": "op12-095",
     "cardNumber": "OP12-095",
-    "name": "Lindbergh",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-095.jpg",
     "status": "acquired",
@@ -1067,7 +938,6 @@
   {
     "id": "op12-096",
     "cardNumber": "OP12-096",
-    "name": "Ursa Shock",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-096.jpg",
     "status": "acquired",
@@ -1076,7 +946,6 @@
   {
     "id": "op12-097",
     "cardNumber": "OP12-097",
-    "name": "Captains Assembled",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-097.jpg",
     "status": "acquired",
@@ -1085,7 +954,6 @@
   {
     "id": "op12-098",
     "cardNumber": "OP12-098",
-    "name": "Hair Removal Fist",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-098.jpg",
     "status": "acquired",
@@ -1094,7 +962,6 @@
   {
     "id": "op12-099",
     "cardNumber": "OP12-099",
-    "name": "Kalgara",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-099.jpg",
     "status": "acquired",
@@ -1103,7 +970,6 @@
   {
     "id": "op12-100",
     "cardNumber": "OP12-100",
-    "name": "Sabo",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-100.jpg",
     "status": "acquired",
@@ -1112,7 +978,6 @@
   {
     "id": "op12-101",
     "cardNumber": "OP12-101",
-    "name": "Jewelry Bonney",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-101.jpg",
     "status": "acquired",
@@ -1121,7 +986,6 @@
   {
     "id": "op12-102",
     "cardNumber": "OP12-102",
-    "name": "Shirahoshi",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-102.jpg",
     "status": "acquired",
@@ -1130,7 +994,6 @@
   {
     "id": "op12-102-alt",
     "cardNumber": "OP12-102",
-    "name": "Shirahoshi",
     "seriesId": "op12",
     "image": "/images/cards/OP12/ALTs/OP12-102(alt).jpg",
     "status": "acquired",
@@ -1139,7 +1002,6 @@
   {
     "id": "op12-103",
     "cardNumber": "OP12-103",
-    "name": "Seto",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-103.jpg",
     "status": "acquired",
@@ -1148,7 +1010,6 @@
   {
     "id": "op12-104",
     "cardNumber": "OP12-104",
-    "name": "Sentomaru",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-104.jpg",
     "status": "acquired",
@@ -1157,7 +1018,6 @@
   {
     "id": "op12-105",
     "cardNumber": "OP12-105",
-    "name": "Trafalgar Lammy",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-105.jpg",
     "status": "acquired",
@@ -1166,7 +1026,6 @@
   {
     "id": "op12-106",
     "cardNumber": "OP12-106",
-    "name": "Trafalgar Law",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-106.jpg",
     "status": "acquired",
@@ -1175,7 +1034,6 @@
   {
     "id": "op12-107",
     "cardNumber": "OP12-107",
-    "name": "Donquixote Doflamingo",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-107.jpg",
     "status": "acquired",
@@ -1184,7 +1042,6 @@
   {
     "id": "op12-108",
     "cardNumber": "OP12-108",
-    "name": "Donquixote Rosinante",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-108.jpg",
     "status": "acquired",
@@ -1193,7 +1050,6 @@
   {
     "id": "op12-108-alt",
     "cardNumber": "OP12-108",
-    "name": "Donquixote Rosinante",
     "seriesId": "op12",
     "image": "/images/cards/OP12/ALTs/OP12-108(alt).jpg",
     "status": "wanted",
@@ -1202,7 +1058,6 @@
   {
     "id": "op12-109",
     "cardNumber": "OP12-109",
-    "name": "Pacifista",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-109.jpg",
     "status": "acquired",
@@ -1211,7 +1066,6 @@
   {
     "id": "op12-110",
     "cardNumber": "OP12-110",
-    "name": "Buffalo",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-110.jpg",
     "status": "acquired",
@@ -1220,7 +1074,6 @@
   {
     "id": "op12-111",
     "cardNumber": "OP12-111",
-    "name": "Baby 5",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-111.jpg",
     "status": "acquired",
@@ -1229,7 +1082,6 @@
   {
     "id": "op12-112",
     "cardNumber": "OP12-112",
-    "name": "Baby 5",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-112.jpg",
     "status": "acquired",
@@ -1238,7 +1090,6 @@
   {
     "id": "op12-113",
     "cardNumber": "OP12-113",
-    "name": "Roronoa Zoro",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-113.jpg",
     "status": "acquired",
@@ -1247,7 +1098,6 @@
   {
     "id": "op12-114",
     "cardNumber": "OP12-114",
-    "name": "Wyper",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-114.jpg",
     "status": "acquired",
@@ -1256,7 +1106,6 @@
   {
     "id": "op12-115",
     "cardNumber": "OP12-115",
-    "name": "I Love You!!",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-115.jpg",
     "status": "acquired",
@@ -1265,7 +1114,6 @@
   {
     "id": "op12-116",
     "cardNumber": "OP12-116",
-    "name": "We'll Ring the Bell Waiting for You!!",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-116.jpg",
     "status": "acquired",
@@ -1274,7 +1122,6 @@
   {
     "id": "op12-117",
     "cardNumber": "OP12-117",
-    "name": "Slam Gibson",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-117.jpg",
     "status": "acquired",
@@ -1283,7 +1130,6 @@
   {
     "id": "op12-118",
     "cardNumber": "OP12-118",
-    "name": "Jewelry Bonney",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-118.jpg",
     "status": "acquired",
@@ -1292,7 +1138,6 @@
   {
     "id": "op12-118",
     "cardNumber": "OP12-118",
-    "name": "Jewelry Bonney",
     "seriesId": "op12",
     "image": "/images/cards/OP12/ALTs/OP12-118(alt).jpg",
     "status": "wanted",
@@ -1301,7 +1146,6 @@
   {
     "id": "op12-118",
     "cardNumber": "OP12-118",
-    "name": "Jewelry Bonney",
     "seriesId": "op12",
     "image": "/images/cards/OP12/ALTs/OP12-118(manga).jpg",
     "status": "wanted",
@@ -1310,7 +1154,6 @@
   {
     "id": "op12-119",
     "cardNumber": "OP12-119",
-    "name": "Bartholomew Kuma",
     "seriesId": "op12",
     "image": "/images/cards/OP12/OP12-119.jpg",
     "status": "wanted",
@@ -1319,10 +1162,1160 @@
   {
     "id": "op12-119-alt",
     "cardNumber": "OP12-119",
-    "name": "Bartholomew Kuma (Alternate Art)",
     "seriesId": "op12",
-    "rarityId": "sec_alt",
     "image": "/images/cards/OP12/ALTs/OP12-119(alt).jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-001",
+    "cardNumber": "OP10-001",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-001.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-001-alt",
+    "cardNumber": "OP10-001",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/ALTs/OP10-001alt.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-002",
+    "cardNumber": "OP10-002",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-002.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-002-alt",
+    "cardNumber": "OP10-002",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/ALTs/OP10-002alt.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-003",
+    "cardNumber": "OP10-003",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-003.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-003-alt",
+    "cardNumber": "OP10-003",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/ALTs/OP10-003alt.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-004",
+    "cardNumber": "OP10-004",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-004.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-005",
+    "cardNumber": "OP10-005",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-005.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-005-alt",
+    "cardNumber": "OP10-005",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/ALTs/OP10-005alt.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-006",
+    "cardNumber": "OP10-006",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-006.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-007",
+    "cardNumber": "OP10-007",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-007.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-008",
+    "cardNumber": "OP10-008",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-008.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-009",
+    "cardNumber": "OP10-009",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-009.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-010",
+    "cardNumber": "OP10-010",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-010.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-011",
+    "cardNumber": "OP10-011",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-011.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-012",
+    "cardNumber": "OP10-012",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-012.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-013",
+    "cardNumber": "OP10-013",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-013.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-014",
+    "cardNumber": "OP10-014",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-014.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-015",
+    "cardNumber": "OP10-015",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-015.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-016",
+    "cardNumber": "OP10-016",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-016.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-016-alt",
+    "cardNumber": "OP10-016",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/ALTs/OP10-016alt.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-017",
+    "cardNumber": "OP10-017",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-017.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-018",
+    "cardNumber": "OP10-018",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-018.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-019",
+    "cardNumber": "OP10-019",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-019.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-019-alt",
+    "cardNumber": "OP10-019",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/ALTs/OP10-019alt.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-020",
+    "cardNumber": "OP10-020",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-020.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-021",
+    "cardNumber": "OP10-021",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-021.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-022",
+    "cardNumber": "OP10-022",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-022.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-022-alt",
+    "cardNumber": "OP10-022",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/ALTs/OP10-022alt.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-023",
+    "cardNumber": "OP10-023",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-023.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-024",
+    "cardNumber": "OP10-024",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-024.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-025",
+    "cardNumber": "OP10-025",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-025.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-026",
+    "cardNumber": "OP10-026",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-026.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-027",
+    "cardNumber": "OP10-027",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-027.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-028",
+    "cardNumber": "OP10-028",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-028.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-029",
+    "cardNumber": "OP10-029",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-029.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-030",
+    "cardNumber": "OP10-030",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-030.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-030-alt",
+    "cardNumber": "OP10-030",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/ALTs/OP10-030alt.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-031",
+    "cardNumber": "OP10-031",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-031.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-032",
+    "cardNumber": "OP10-032",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-032.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-032-alt",
+    "cardNumber": "OP10-032",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/ALTs/OP10-032alt.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-033",
+    "cardNumber": "OP10-033",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-033.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-034",
+    "cardNumber": "OP10-034",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-034.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-035",
+    "cardNumber": "OP10-035",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-035.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-036",
+    "cardNumber": "OP10-036",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-036.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-037",
+    "cardNumber": "OP10-037",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-037.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-037-alt",
+    "cardNumber": "OP10-037",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/ALTs/OP10-037alt.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-038",
+    "cardNumber": "OP10-038",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-038.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-039",
+    "cardNumber": "OP10-039",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-039.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-040",
+    "cardNumber": "OP10-040",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-040.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-041",
+    "cardNumber": "OP10-041",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-041.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-042",
+    "cardNumber": "OP10-042",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-042.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-042-alt",
+    "cardNumber": "OP10-042",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/ALTs/OP10-042alt.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-043",
+    "cardNumber": "OP10-043",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-043.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-044",
+    "cardNumber": "OP10-044",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-044.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-045",
+    "cardNumber": "OP10-045",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-045.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-045-alt",
+    "cardNumber": "OP10-045",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/ALTs/OP10-045alt.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-046",
+    "cardNumber": "OP10-046",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-046.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-046-alt",
+    "cardNumber": "OP10-046",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/ALTs/OP10-046alt.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-047",
+    "cardNumber": "OP10-047",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-047.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-048",
+    "cardNumber": "OP10-048",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-048.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-049",
+    "cardNumber": "OP10-049",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-049.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-050",
+    "cardNumber": "OP10-050",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-050.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-051",
+    "cardNumber": "OP10-051",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-051.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-052",
+    "cardNumber": "OP10-052",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-052.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-053",
+    "cardNumber": "OP10-053",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-053.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-054",
+    "cardNumber": "OP10-054",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-054.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-055",
+    "cardNumber": "OP10-055",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-055.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-056",
+    "cardNumber": "OP10-056",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-056.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-057",
+    "cardNumber": "OP10-057",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-057.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-058",
+    "cardNumber": "OP10-058",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-058.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-058-alt",
+    "cardNumber": "OP10-058",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/ALTs/OP10-058alt.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-059",
+    "cardNumber": "OP10-059",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-059.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-060",
+    "cardNumber": "OP10-060",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-060.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-061",
+    "cardNumber": "OP10-061",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-061.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-062",
+    "cardNumber": "OP10-062",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-062.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-063",
+    "cardNumber": "OP10-063",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-063.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-064",
+    "cardNumber": "OP10-064",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-064.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-065",
+    "cardNumber": "OP10-065",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-065.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-066",
+    "cardNumber": "OP10-066",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-066.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-067",
+    "cardNumber": "OP10-067",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-067.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-067-alt",
+    "cardNumber": "OP10-067",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/ALTs/OP10-067alt.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-068",
+    "cardNumber": "OP10-068",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-068.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-069",
+    "cardNumber": "OP10-069",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-069.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-070",
+    "cardNumber": "OP10-070",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-070.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-071",
+    "cardNumber": "OP10-071",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-071.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-071-alt",
+    "cardNumber": "OP10-071",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/ALTs/OP10-071alt.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-072",
+    "cardNumber": "OP10-072",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-072.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-072-alt",
+    "cardNumber": "OP10-072",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/ALTs/OP10-072alt.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-073",
+    "cardNumber": "OP10-073",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-073.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-074",
+    "cardNumber": "OP10-074",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-074.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-075",
+    "cardNumber": "OP10-075",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-075.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-076",
+    "cardNumber": "OP10-076",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-076.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-077",
+    "cardNumber": "OP10-077",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-077.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-078",
+    "cardNumber": "OP10-078",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-078.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-079",
+    "cardNumber": "OP10-079",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-079.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-080",
+    "cardNumber": "OP10-080",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-080.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-081",
+    "cardNumber": "OP10-081",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-081.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-082",
+    "cardNumber": "OP10-082",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-082.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-082-alt",
+    "cardNumber": "OP10-082",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/ALTs/OP10-082alt.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-083",
+    "cardNumber": "OP10-083",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-083.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-084",
+    "cardNumber": "OP10-084",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-084.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-085",
+    "cardNumber": "OP10-085",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-085.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-086",
+    "cardNumber": "OP10-086",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-086.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-087",
+    "cardNumber": "OP10-087",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-087.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-088",
+    "cardNumber": "OP10-088",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-088.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-089",
+    "cardNumber": "OP10-089",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-089.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-090",
+    "cardNumber": "OP10-090",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-090.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-090-alt",
+    "cardNumber": "OP10-090",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/ALTs/OP10-090alt.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-091",
+    "cardNumber": "OP10-091",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-091.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-092",
+    "cardNumber": "OP10-092",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-092.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-093",
+    "cardNumber": "OP10-093",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-093.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-094",
+    "cardNumber": "OP10-094",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-094.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-095",
+    "cardNumber": "OP10-095",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-095.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-096",
+    "cardNumber": "OP10-096",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-096.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-097",
+    "cardNumber": "OP10-097",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-097.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-098",
+    "cardNumber": "OP10-098",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-098.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-099",
+    "cardNumber": "OP10-099",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-099.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-099-alt",
+    "cardNumber": "OP10-099",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/ALTs/OP10-099alt.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-100",
+    "cardNumber": "OP10-100",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-100.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-101",
+    "cardNumber": "OP10-101",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-101.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-102",
+    "cardNumber": "OP10-102",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-102.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-103",
+    "cardNumber": "OP10-103",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-103.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-104",
+    "cardNumber": "OP10-104",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-104.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-105",
+    "cardNumber": "OP10-105",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-105.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-106",
+    "cardNumber": "OP10-106",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-106.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-107",
+    "cardNumber": "OP10-107",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-107.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-108",
+    "cardNumber": "OP10-108",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-108.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-109",
+    "cardNumber": "OP10-109",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-109.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-110",
+    "cardNumber": "OP10-110",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-110.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-111",
+    "cardNumber": "OP10-111",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-111.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-111-alt",
+    "cardNumber": "OP10-111",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/ALTs/OP10-111alt.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-112",
+    "cardNumber": "OP10-112",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-112.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-112-alt",
+    "cardNumber": "OP10-112",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/ALTs/OP10-112alt.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-113",
+    "cardNumber": "OP10-113",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-113.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-114",
+    "cardNumber": "OP10-114",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-114.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-115",
+    "cardNumber": "OP10-115",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-115.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-116",
+    "cardNumber": "OP10-116",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-116.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-117",
+    "cardNumber": "OP10-117",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-117.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-118",
+    "cardNumber": "OP10-118",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-118.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-118-alt",
+    "cardNumber": "OP10-118",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/ALTs/OP10-118alt.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-119",
+    "cardNumber": "OP10-119",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/OP10-119.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-119-alt",
+    "cardNumber": "OP10-119",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/ALTs/OP10-119alt.jpg",
+    "status": "wanted",
+    "duplicates": 0
+  },
+  {
+    "id": "op10-119-alt",
+    "cardNumber": "OP10-119",
+    "seriesId": "op10",
+    "image": "/images/cards/OP10/ALTs/OP10-119 manga alt.jpg",
     "status": "wanted",
     "duplicates": 0
   }

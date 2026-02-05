@@ -217,14 +217,21 @@ const resetFilters = () => {
 onMounted(async () => {
   loading.value = true
   try {
-    const [cardsResponse, seriesResponse, raritiesResponse] = await Promise.all([
-      fetch('/data/cards.json'),
+    // Load series and rarities
+    const [seriesResponse, raritiesResponse] = await Promise.all([
       fetch('/data/series.json'),
       fetch('/data/rarities.json'),
     ])
-    cards.value = await cardsResponse.json()
     series.value = await seriesResponse.json()
     rarities.value = await raritiesResponse.json()
+
+    // Load all series cards files
+    const seriesIds = ['op10', 'op11', 'op12', 'op13', 'op14']
+    const cardsPromises = seriesIds.map(id =>
+      fetch(`/data/series/${id}.json`).then(r => r.json())
+    )
+    const allSeriesCards = await Promise.all(cardsPromises)
+    cards.value = allSeriesCards.flat()
   } catch (error) {
     console.error('Erreur lors du chargement:', error)
   } finally {
